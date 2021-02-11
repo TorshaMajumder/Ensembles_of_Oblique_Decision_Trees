@@ -9,7 +9,7 @@ This repository contains several decision tree algorithms compatible with **Scik
 Majumder, T. (2020). *Ensembles of oblique decision trees* [Master's Thesis, University of Texas,
 Dallas]. UTD Theses and Dissertations.
 
-\
+## Experiment
 Decision Trees considered for this experiment:
 
     * Standard Decision Tree with Bagging
