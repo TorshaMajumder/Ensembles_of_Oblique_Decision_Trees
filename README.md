@@ -4,6 +4,11 @@
 
 ## Background
 This repository contains several decision tree algorithms compatible with **Scikit-Learn's *Bagging Classifier***. For the complete experimental setup and results, please check [my thesis](https://utd-ir.tdl.org/handle/10735.1/8818). If you find this code useful, please cite my work.
+
+## Citation
+Majumder, T. (2020). *Ensembles of oblique decision trees* [Master's Thesis, University of Texas,
+Dallas]. UTD Theses and Dissertations.
+
 \
 Decision Trees considered for this experiment:
 
