@@ -8,7 +8,7 @@
 dataset/
 data/
 
-# Notebooks
+
 
 
 # Byte-compiled / optimized / DLL files
@@ -17,6 +17,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+Python/
 env/
 build/
 develop-eggs/
